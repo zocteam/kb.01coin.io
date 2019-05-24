@@ -66,11 +66,11 @@ If we take this principle and apply it to the whole project, and not just to the
 
 # 6 Always trust, but be suspicious
 
-In business people have to work together all the time. There is a certain amount of trust needed to do this effectively. In a perfect world, you would be able trust co-workers or employees to always perform perfectly. In reality, you must remain vigilant for intentional or unintentional mistakes. That’s why you build trust and give power over time. But whatever you do, you always have a safety net (backups, version control, etc.).
+In business people have to work together all the time. There is a certain amount of trust needed to do this effectively. While you may wish to be able to trust co-workers or employees to be “perfect,” you must be wary of intentional or unintentional mistakes. That’s why you build trust and give power over time. But whatever you do, you always have a safety net (backups, version control, etc.).
 
-For ZOC this means as community members show their value in the community they will be assigned more and more important roles. But there must always be safeguards. Nobody should be able to take destructive, non-reversible actions. At a certain point people should also be trusted to trust. This means you allow members to assign roles themselves. It’s like saying, “Because I trust you, I trust who you trust.” This way you’ll create a “Chain of Trust.”
+For 01coin this means as community members prove their value to the project they will be assigned more and more important roles. But there should always be safeguards. No-one should be able to take destructive, non-reversible actions. At a certain point people should also be trusted to trust. This means you allow members to assign roles themselves. It’s like saying, “Because I trust you, I trust who you trust.” This way you’ll create a “Chain of Trust” similar to that used in computer security certificate authority (CA).
 
-This power the members will receive does **not only** apply to Discord or being able to review code. It has to apply to every product ZOC will produce. From whitepapers to websites to roadmaps, the community should be in control.
+The trust and empowerment members will receive does not only apply to Discord or being able to participate in advanced governance structures, or invitations to review code. It has to apply to every product 01coin will produce. From whitepapers to websites to development projects, the community should be in control.
 
 # 7 Community fund
 
