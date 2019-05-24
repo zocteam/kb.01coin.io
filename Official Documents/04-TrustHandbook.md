@@ -19,11 +19,11 @@ Utilizing this Chain of Trust construct as a method for developing trust within 
 
 In that document, OwenRay wrote,
 
-> *In business people have to work together all the time. There is a certain amount of trust needed to do this effectively. While you may wish to be able to trust co-workers or employees to be “perfect,” you must be wary of intentional or unintentional mistakes. That’s why you build trust and give power over time. But whatever you do, you always have a safety net (backups, version control, etc.).*
+> *"In business people have to work together all the time. There is a certain amount of trust needed to do this effectively. While you may wish to be able to trust co-workers or employees to be “perfect,” you must be wary of intentional or unintentional mistakes. That’s why you build trust and give power over time. But whatever you do, you always have a safety net (backups, version control, etc.).*
 > 
-> *For 01coin this means as community members prove their value to the project they will be assigned more and more important roles. But there should always be safeguards. No-one should be able to take destructive, non-reversible actions. At a certain point people should also be trusted to trust. This means you allow members to assign roles themselves. It’s like saying, “Because I trust you, I trust who you trust.” This way you’ll create a “Chain of Trust” similar to that used in computer security certificate authority (CA).*
+> *"For 01coin this means as community members prove their value to the project they will be assigned more and more important roles. But there should always be safeguards. No-one should be able to take destructive, non-reversible actions. At a certain point people should also be trusted to trust. This means you allow members to assign roles themselves. It’s like saying, “Because I trust you, I trust who you trust.” This way you’ll create a “Chain of Trust” similar to that used in computer security certificate authority (CA).*
 > 
-> *The trust and empowerment members will receive does not only apply to Discord or being able to participate in advanced governance structures, or invitations to review code. It has to apply to every product 01coin will produce. From whitepapers to websites to development projects, the community should be in control.*
+> *"The trust and empowerment members will receive does not only apply to Discord or being able to participate in advanced governance structures, or invitations to review code. It has to apply to every product 01coin will produce. From whitepapers to websites to development projects, the community should be in control."*
  
 # Your Responsibilities as a Chain of Trust Member
 
@@ -52,6 +52,3 @@ In CA, when a top-level trust agent loses trust, all of its downchain agents are
 # Conclusions
 
 By implementing the Chain of Trust, 01coin hopes to not only build a strong community around 01coin, but also one that exercises industry-leading stewardship over the project. It is in 01coin’s best interest that a large and representative cohort within the community are able to take on greater and greater leadership roles as time goes by and as the project matures. Through this mechanism, and the future network governance infrastructure yet to be implemented, we hope to achieve our goal of making 01coin the benchmark blockchain project for community governance in all of crypto.
-
-Regards, 
-deadthings, on behalf of the zocteam
