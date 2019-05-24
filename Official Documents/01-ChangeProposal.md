@@ -4,6 +4,8 @@ Sort: 1
 ShowOnHome: true
 */
 
+![](https://github.com/deadthings/kb.01coin.io/raw/contrib/Official%20Documents/ChangeProposal01.png)
+
 # 1 Background
 
 ZOC was introduced on Bitcointalk on February 2018. Since that time The wallet has not been updated a single time and the developers have disappeared. The community still wants this coin to succeed and is willing to work on a new future for this coin.
