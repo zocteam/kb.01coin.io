@@ -17,6 +17,10 @@ To setup a 01coin masternode, you will need…
 + A remote server (Virtual Private Server or "VPS") running a headless version of Ubuntu 16.04.
 + At least 1001 ZOC (Note: A masternode requires *exactly* 1000 ZOC to start, but you need a little extra to cover transaction fees when setting it up).
 
+Note that you can download a "printer-friendly" PDF version of this guide here: https://git.io/fxEWT.
+
+Alternatively, you can follow Markdown versions of this guide on [Steemit](https://steemit.com/zeroonecoin/@zeroonecoin/01coin-masternode-setup-guide), [Medium](https://medium.com/01coin-community-blog/01coin-masternode-setup-guide-6de96bf8ba2d) or [GitHub](https://github.com/zocteam/zoc-tools/blob/master/01coin-MasternodeGuide.md), depending on whichever platform you prefer.
+
 # Stage 1: Setup Your Local 01coin Wallet
 
 ## Download, sync and encrypt
