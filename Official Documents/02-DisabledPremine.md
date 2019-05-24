@@ -46,6 +46,3 @@ When the old devs attempted to spend their premine immediately following public 
 At this point, I invite members of the community to pose any additional questions you may have regarding the disabled premine or anything else, for that matter. It is our goal to be completely transparent in our development of 01coin as we work towards implementing a Decentralized Autonomous Organization based on Chain of Trust theory and 100% community governance. Our next step towards achieving this will be sharing our development planning board publicly. We are currently using Trello for this, and if it does not offer observer functionality we may have to switch platforms or find an otherwise suitable solution. Rest assured, though, we are actively looking into this so that we can make the project as transparent as possible as soon as possible. 
 
 Thank you for being a part of the 01 community, where all members are contributors! With 01coin, the future is in your hands.
-
-Regards, 
-deadthings, on behalf of the zocteam
