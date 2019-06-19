@@ -37,13 +37,13 @@ It should be noted that the Chain of Trust is – for now at least – being adm
 
 # How the Chain of Trust Works
 
-A Trust LVL3 member has the following authority: They may nominate an as-of-yet untrusted member of the community to be awarded a Trust LVL3 role. This nomination will be subject to debate among Trust LVL2, Trust LVL1 and zocteam members until a conclusion is reached whether to accept or deny the nomination.
+A Trust LVL1 member has the following authority: They may nominate an as-of-yet untrusted member of the community to be awarded a Trust LVL3 role. This nomination will be subject to debate among Trust LVL2, Trust LVL3 and zocteam members until a conclusion is reached whether to accept or deny the nomination.
 
-A Trust LVL2 member has the following authority: They may award a Trust LVL3 role to an as-of-yet untrusted member of the community AND they may nominate a Trust LVL3 member to be awarded a Trust LVL2 role. This nomination will be subject to debate among Trust LVL1 and zocteam members until a conclusion is reached whether to accept or deny the nomination.
+A Trust LVL2 member has the following authority: They may award a Trust LVL1 role to an as-of-yet untrusted member of the community AND they may nominate a Trust LVL1 member to be awarded a Trust LVL2 role. This nomination will be subject to debate among Trust LVL3 and zocteam members until a conclusion is reached whether to accept or deny the nomination.
 
-A Trust LVL1 member has the following authority: They may award a Trust LVL3 role to an as-of-yet untrusted member of the community AND they may award a Trust LVL2 role to a Trust LVL3 member AND they may nominate a Trust LVL2 member to be awarded a Trust LVL1 role. This nomination will be subject to debate among zocteam members until a conclusion is reached whether to accept or deny the nomination.
+A Trust LVL3 member has the following authority: They may award a Trust LVL1 role to an as-of-yet untrusted member of the community AND they may award a Trust LVL2 role to a Trust LVL1 member AND they may nominate a Trust LVL2 member to be awarded a Trust LVL3 role. This nomination will be subject to debate among zocteam members until a conclusion is reached whether to accept or deny the nomination.
 
-Trust LVL1 members also have the additional authority to nominate proposals to be considered for future 01coin development. They may participate in debate over these proposals and, alongside the zocteam, vote on which proposals are added to the 01coin network governance infrastructure for the final vote, which will be carried out in a representative fashion by the entire 01coin network as a whole. Lastly, the Trust LVL1 members will be the first considered when there is an opening on the zocteam.
+Trust LVL3 members also have the additional authority to nominate proposals to be considered for future 01coin development. They may participate in debate over these proposals and, alongside the zocteam, vote on which proposals are added to the 01coin network governance infrastructure for the final vote, which will be carried out in a representative fashion by the entire 01coin network as a whole. Lastly, the Trust LVL3 members will be the first considered when there is an opening on the zocteam.
 
 The principles of the Chain of Trust are also being exercised by the zocteam on our GitHub account on a smaller scale. Access and permissions are progressively earned.
 
